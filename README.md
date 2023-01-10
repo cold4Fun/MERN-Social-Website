@@ -14,7 +14,7 @@ And also Heroku is not free anymore since Nov. 2022....
 For the front end I built it with React and for the backend with MongoDB. 
 And to connect them I used ExpressJS and Node.JS.
 
-##To show a quick demo of the website:
+## To show a quick demo of the website:
 
 1. **LoginPage**, I achieved functions like register, login and authentication using **Morgan**, **jsonwebtoken**.
 And during that it also accepts photos as profile picture, so I used **multer** and **multer-gridfs-storage** to upload.
