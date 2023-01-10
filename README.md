@@ -49,7 +49,7 @@ And during that it also accepts photos as profile picture, so I used **multer** 
   ![adsWidget   friendsWidget](https://user-images.githubusercontent.com/45551363/211434383-c6ba4e08-7027-4aa5-b045-b3a4833e3dbb.PNG)
 
 
-##Future Work
+## Future Work
 
 I think I would consider about adding more features like payments, wallets and features like book a flight/hotel/rental car, and a chat system.
 In the end, I project it to be a mix of Wechat, Twitter and Expedia.
